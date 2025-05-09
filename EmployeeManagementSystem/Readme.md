@@ -68,6 +68,4 @@ This project is open-source and free to use for educational purposes.
 
 ---
 
-Let me know if you’d like me to generate the code for the `Employee.java`, `EmployeeService.java`, and `EmployeeManagementApp.java` files too.
-
 
